@@ -1,0 +1,73 @@
+.user-profile-outercontainer {
+    display: flex;
+    margin-top: 200px;
+    justify-content: center;
+    align-items: center;
+}
+.user-profile {
+    background-color: red;
+    padding: 10px;
+    border-radius: 10px;
+    width: 500px;
+
+}
+.user-profile .heading {
+    font-size: 30px;
+    color: white;
+    font-weight: 700;
+    border-bottom: 3px solid white;
+}
+.data-row {
+    display: flex;
+    flex-direction: row;
+    color: white;
+}
+
+.data-row span {
+    width: 50%;
+    padding: 10px;
+    border: 2px solid;
+    font-size: 18px;
+}
+
+/* .update-password {
+    background-color: gray;
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    margin: 5px;
+    border-radius: 10px;
+}
+
+.update-password p {
+    font-size: 30px;
+    color: red;
+}
+.update-password label {
+    color: white;
+}
+.update-password input {
+    border: 3px solid red;
+    padding: 5px;
+    font-size: 18px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
+
+.mybtn {
+    width: 100px;
+    display: block;
+    margin: auto;
+    background-color: grey;
+    border-radius: 10px;
+    border: 2px solid white;
+    color: white;
+}
+
+.mybtn:hover {
+    color: red;
+    border: 2px solid red;
+    cursor: pointer;
+} */
+
+
