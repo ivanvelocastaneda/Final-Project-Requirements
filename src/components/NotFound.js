@@ -1,3 +1,4 @@
+//  This component displays an unreachable page within the website 
 import React from "react";
 import NavBar from "./NavBar";
 
