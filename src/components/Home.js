@@ -1,3 +1,4 @@
+// This component is the home page of the website 
 import React, { useState, useEffect } from "react";
 import NavBar from "./NavBar";
 import Products from "./Products";
