@@ -7,6 +7,7 @@ import { getStorage } from "firebase/storage";
 // https://firebase.google.com/docs/web/setup#available-libraries
 
 // Your web app's Firebase configuration
+// Your Firebase configuration might look different than mine
 const firebaseConfig = {
   apiKey: "AIzaSyDqgh8hqcWoXUNmTS5vctPZWsX3GmFmqH8",
   authDomain: "shopping-cart-6f949.firebaseapp.com",
