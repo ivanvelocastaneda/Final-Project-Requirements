@@ -1,3 +1,5 @@
+// This component deals with the product cards in the home page
+// Just like the product container component, it displays a picture of the product and price, and allows you to add an item to the cart
 import React, { useState, useEffect } from "react";
 import "./Sliderproductcard.css";
 import { useParams } from "react-router-dom";
