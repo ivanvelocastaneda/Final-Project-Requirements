@@ -1,3 +1,4 @@
+// This component displays the profile of the user and their information 
 import React, { useState, useEffect } from "react";
 import NavBar from "./NavBar";
 import { auth, db } from "../config/firebaseConfig";
