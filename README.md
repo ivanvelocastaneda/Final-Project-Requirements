@@ -32,5 +32,36 @@ The configuration might look different than mine but the rules should be the sam
 ![Screenshot (34)](https://github.com/ivanvelocastaneda/Final-Project-Requirements/assets/111911650/3ecc8e38-7733-4f4f-901a-ab5c64307259)
 ![Screenshot (31)](https://github.com/ivanvelocastaneda/Final-Project-Requirements/assets/111911650/e934052c-8e53-451a-a6f1-1625346d5616)
 
+Home Page
+![Screenshot (37)](https://github.com/ivanvelocastaneda/Final-Project-Requirements/assets/111911650/32611502-ac7f-46ff-86cf-c71edd886f94)
+
+![Screenshot (38)](https://github.com/ivanvelocastaneda/Final-Project-Requirements/assets/111911650/a307da1c-a28a-4e28-a52e-81ebb75061cb)
+
+Xbox Page
+![Screenshot (39)](https://github.com/ivanvelocastaneda/Final-Project-Requirements/assets/111911650/15996d03-f747-4ffb-bd1d-b12ddb20ca35)
+
+Playstation Page
+![Screenshot (40)](https://github.com/ivanvelocastaneda/Final-Project-Requirements/assets/111911650/ebf8a878-6c4e-40c3-be33-ce8fa7438acf)
+
+
+Nintendo Switch Page
+![Screenshot (41)](https://github.com/ivanvelocastaneda/Final-Project-Requirements/assets/111911650/b05b0356-c8fe-4926-aa51-86e655209ac8)
+
+PC Games Page
+![Screenshot (43)](https://github.com/ivanvelocastaneda/Final-Project-Requirements/assets/111911650/e7b915fe-de9b-4767-b866-2ac853358ef6)
+
+Login Page
+![Screenshot (45)](https://github.com/ivanvelocastaneda/Final-Project-Requirements/assets/111911650/0ebe1f57-f82a-4a22-bb71-720c182b8e75)
+
+Sign Up Page
+![Screenshot (46)](https://github.com/ivanvelocastaneda/Final-Project-Requirements/assets/111911650/84f0e5dd-a15b-45f8-b06f-5eb07f6de05e)
+
+Account Information Page
+![Screenshot (44)](https://github.com/ivanvelocastaneda/Final-Project-Requirements/assets/111911650/36a56e25-fbe2-40f2-bc9d-a3b0f79a7469)
+
+
+
+
+
 
 
