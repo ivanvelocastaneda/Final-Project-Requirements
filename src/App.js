@@ -1,3 +1,5 @@
+//This File includes all website's routes, home page, login page, sign up page, profile page, xbox page, playstation page
+// nintendo page, pc games page, and a not found page
 import { BrowserRouter, RouteProps, Route, Routes } from "react-router-dom";
 import Home from "./components/Home";
 import Login from "./components/Login";
