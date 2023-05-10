@@ -1,3 +1,4 @@
+// This is the log in component and allows the user to log in into their account 
 import React, { useState } from "react";
 import NavBar from "./NavBar";
 import "./Login.css";
