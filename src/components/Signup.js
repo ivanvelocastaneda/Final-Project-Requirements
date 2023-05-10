@@ -1,3 +1,4 @@
+// This component allows the user to sign up and create an account
 import React, { useState } from "react";
 import NavBar from "./NavBar";
 import { useNavigate } from "react-router-dom";
