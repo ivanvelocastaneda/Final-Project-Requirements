@@ -1,3 +1,10 @@
+// This component is not implemented completely and does not function propertly
+// It is displayed when the user would've clicked on the show more option in the product container component, it would've
+// redirected the user to a different page and would've displayed more information about a certain game 
+// In addition to displaying the game's image and price, it would've also displayed a description of the game and allow the user to add
+// am item to the cart
+// It would've also displayed a cash on delivery option, a 1 year warranty, a 10 day replacement
+// It would've displayed similar items as well 
 import React, { useState, useEffect } from "react";
 import NavBar from "../NavBar";
 import { useParams } from "react-router-dom";
