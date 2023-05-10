@@ -1,3 +1,5 @@
+// This component displays the top results for each page of the website
+// For example, if you click on the xbox page, it will redirect you to all the xbox's games within available within the site
 import React, { useState, useEffect } from "react";
 import Productcontainer from "./Productcontainer";
 import "./Allproductpage.css";
