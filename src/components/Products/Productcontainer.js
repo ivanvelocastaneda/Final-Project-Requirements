@@ -1,3 +1,6 @@
+// This component deals with the product containers within the website's page
+// It displays each game with its own picture and price
+// It also allows you to add a game to your cart 
 import React, { useState, useEffect } from "react";
 import "./Productcontainer.css";
 import { Link } from "react-router-dom";
