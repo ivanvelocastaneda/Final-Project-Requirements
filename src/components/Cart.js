@@ -1,3 +1,5 @@
+// This component is not implemented completely and there might be some issues with it
+// If the user clicks on their cart, it would've displayed the games they added to their cart
 import React, { useState, useEffect } from "react";
 import NavBar from "./NavBar";
 import { auth, db } from "../config/firebaseConfig";
