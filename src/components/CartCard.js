@@ -1,3 +1,5 @@
+// This component is not implemented completely and there might be some issues with it
+// It would've displayed the user's cart information and allowed them to add or delete quantities of the games they added to the cart
 import React, { useState, useEffect } from "react";
 import "./CartCard.css";
 import { doc, setDoc, deleteDoc, updateDoc } from "firebase/firestore";
