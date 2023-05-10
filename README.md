@@ -21,11 +21,12 @@ Show More
 ![Screenshot (35)](https://github.com/ivanvelocastaneda/Final-Project-Requirements/assets/111911650/ae9a44a4-015d-448e-9c0d-8bd80ef39b3a)
 
 # Setting up and Running the website:
-npm install firebase
-npm install react-router-dom
-npm install bootstrap
-npm install react-router-bootstrap bootstrap
-npm install react-multi-carousel
+-Have NodeJs installed
+-npm install firebase
+-npm install react-router-dom
+-npm install bootstrap
+-npm install react-router-bootstrap bootstrap
+-npm install react-multi-carousel
 
 # Firebase Configuration and Rules
 The configuration might look different than mine but the rules should be the same
