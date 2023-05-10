@@ -1,5 +1,8 @@
+// This component allows the user to insert an Advertisement and display it in the home page
 import React from "react";
 import Carousel from "react-bootstrap/Carousel";
+// npm install bootstrap
+// npm install react-router bootstrap
 import "bootstrap/dist/css/bootstrap.css";
 import slide1 from "./assets/adsimages/xboxAd.jpg";
 import slide2 from "./assets/adsimages/psAd.jpg";
