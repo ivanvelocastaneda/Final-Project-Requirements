@@ -1,3 +1,4 @@
+// This component allows the user to add a product to the website 
 import React, { useState, useEffect } from "react";
 import NavBar from "./NavBar";
 import "./AddProduct.css";
@@ -82,6 +83,8 @@ const AddProduct = () => {
   return (
     <div>
       <NavBar />
+      // This would have to be changed to the user's email in order add items to the website
+      // Otherwise, they cannot interact with this feature
       {loggeduser && loggeduser[0].email == "alinvelo@gmail.com" ? (
         <div className="addprod-container">
           <form className="addprod-form" onSubmit={handleAddProduct}>
