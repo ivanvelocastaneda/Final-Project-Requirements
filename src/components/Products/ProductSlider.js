@@ -1,6 +1,8 @@
+// This component pertains to the responsiveness of the website 
 import React, { useState, useEffect } from "react";
 import NavBar from "../NavBar";
 import Carousel from "react-multi-carousel";
+// npm install react-multi-carousel
 import "react-multi-carousel/lib/styles.css";
 import Sliderproductcard from "./Sliderproductcard";
 import { collection, query, onSnapshot, getDocs } from "firebase/firestore";
