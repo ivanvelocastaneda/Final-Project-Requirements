@@ -1,3 +1,4 @@
+// This component displays the Navigation bar of the website 
 import React, { useState, useEffect } from "react";
 import { Link, Navigate, useNavigate } from "react-router-dom";
 import "./NavBar.css";
